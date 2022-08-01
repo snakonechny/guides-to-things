@@ -1,4 +1,4 @@
-# Data Science Resources and Guides - reworked (2021)
+# Data Science Resources and Guides - reworked (2022)
 
 _This is my stock answer to "I'd like to do data science. Where do I start?" My answer here is biased, broad, and probably boring, but it should be enough to get one going in the right direction._
 
